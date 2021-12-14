@@ -28,7 +28,7 @@ REQUERIMIENTOS FUNCIONALES
  
   ➤ La vista debe mostrar:  
   
-    ▪ La ruta 
+    ▪ La ruta (mapa, imagen, polyline)
     ▪ Distancia recorrida  
     ▪ Tiempo del recorrido 
     ▪ Un botón de compartir (FB, WS, SMS)  
